@@ -53,9 +53,9 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🎮 Proyecto Principal: Minecraft Network
+## 🎮 Proyecto Actual: Minecraft Network
 
-Mi proyecto más ambicioso es el desarrollo de un **Network de Minecraft** completo, donde implemento:
+Mi proyecto actual es el desarrollo de un **Network de Minecraft** completa, donde implemento:
 
 - **Backend en Java** con Spigot/Paper API
 - **Sistema de bases de datos** para gestión de usuarios y estadísticas
@@ -83,24 +83,16 @@ Mi proyecto más ambicioso es el desarrollo de un **Network de Minecraft** compl
   <img src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🎯 Objetivos 2025
-
-- [ ] Completar el lanzamiento del Minecraft Network
-- [ ] Contribuir a proyectos open source
-- [ ] Aprender nuevas tecnologías (React, Node.js, Docker)
-- [ ] Obtener certificaciones en desarrollo web
-- [ ] Expandir conocimientos en DevOps y Cloud Computing
-
 ## 🤝 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:tu.email@example.com">
+  <a href="mailto:contacto@grivyzom.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/grivyzom">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.gg/tu-servidor">
+  <a href="https://discord.grivyzom.com">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>

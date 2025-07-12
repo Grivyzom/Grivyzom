@@ -29,7 +29,6 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
 ### 🗄️ Bases de Datos
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </div>
@@ -40,17 +39,6 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-</div>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🎮 Proyecto Actual: Minecraft Network
@@ -76,12 +64,6 @@ Mi proyecto actual es el desarrollo de un **Network de Minecraft** completa, don
 - **Minecraft Network Management System** - Sistema integral para gestión de servidores
 - **University Projects Portfolio** - Repositorio de proyectos universitarios
 - **Web Development Experiments** - Experimentos con tecnologías web modernas
-
-## 📈 Actividad de Desarrollo
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
 
 ## 🤝 Conecta conmigo
 

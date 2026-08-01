@@ -22,15 +22,15 @@
 
 Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado por la tecnología y el desarrollo de software. Actualmente trabajo en un **proyecto de Network de Minecraft** donde aplico todos los conocimientos que adquiero en mi carrera universitaria.
 
-- 🎓 **Estudiante de Ingeniería Informática**
-- 🎮 **Founder & Developer** de un Network de Minecraft
-- 🌱 Constantemente aprendiendo nuevas tecnologías
-- 🔍 Experimentando con **arquitecturas de software** y **desarrollo full-stack**
-- 💡 Convirtiendo ideas en código funcional
+- **Estudiante de Ingeniería Informática**
+- **Developer** de un Network de Minecraft
+- Constantemente aprendiendo nuevas tecnologías
+- Experimentando con **arquitecturas de software** y **desarrollo full-stack**
+- Convirtiendo ideas en código funcional
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes de Programación
+### Lenguajes de Programación
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -39,14 +39,14 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </div>
 
-### 🔧 Herramientas y Tecnologías
+### Herramientas y Tecnologías
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -54,14 +54,14 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
-### 🔥 Características Técnicas:
+### Características Técnicas:
 - Multi-servidor con BungeeCord/Velocity
 - Sistema de rangos y permisos avanzado
 - Economía virtual con transacciones seguras
 - Sistema de minijuegos personalizados
 - Panel de administración web
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 ### 🎯 En Desarrollo
 - **Minecraft Network Management System** - Sistema integral para gestión de servidores
@@ -72,9 +72,9 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
 ---
 
 <div align="center">
-  <i>💡 "El código es poesía escrita en lógica"</i>
+  <i>"La programación es la representación mas fiel a la magia."</i>
 </div>
 
 ---
 
-⭐ **¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios!
+**¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios!

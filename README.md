@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado por la tecnología y el desarrollo de software. Actualmente trabajo en un **proyecto de Network de Minecraft** donde aplico todos los conocimientos que adquiero en mi carrera universitaria.
 
@@ -28,7 +28,7 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
 - Experimentando con **arquitecturas de software** y **desarrollo full-stack**
 - Convirtiendo ideas en código funcional
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes de Programación
 <div align="center">
@@ -63,10 +63,12 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
 
 ## Proyectos Destacados
 
-### 🎯 En Desarrollo
-- **Minecraft Network Management System** - Sistema integral para gestión de servidores
+### En Desarrollo
 - **University Projects Portfolio** - Repositorio de proyectos universitarios
 - **Web Development Experiments** - Experimentos con tecnologías web modernas
+- **Softwares CLM** - Emisión de contratos/documentos para temas legales.
+- **Softwares MES** - Registro y gestión de producción y la trazabilidad.
+- **Software 
 
 
 ---

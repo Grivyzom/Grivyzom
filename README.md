@@ -1,10 +1,10 @@
-# ¡Hola! 👋
+#
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Estud..+de+Ingenier%C3%ADa+Inform%C3%A1tica;Creador+de+Proyectos+Minecraft;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
 
-## 🤝 Conecta conmigo
+## Información de Contacto
 
 <div align="center">
   <a href="mailto:contacto@grivyzom.com">
@@ -53,16 +53,6 @@ Soy un **estudiante de Ingeniería Informática** de Chile 🇨🇱, apasionado 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
-
-## 🎮 Proyecto Actual: Minecraft Network
-
-Mi proyecto actual es el desarrollo de un **Network de Minecraft** completa, donde implemento:
-
-- **Backend en Java** con Spigot/Paper API
-- **Sistema de bases de datos** para gestión de usuarios y estadísticas
-- **Arquitectura de microservicios** para escalabilidad
-- **APIs REST** para integración con sistemas externos
-- **Sistema de plugins** personalizados
 
 ### 🔥 Características Técnicas:
 - Multi-servidor con BungeeCord/Velocity

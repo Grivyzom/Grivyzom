@@ -1,8 +1,3 @@
-#
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Estud..+de+Ingenier%C3%ADa+Inform%C3%A1tica;Creador+de+Proyectos+Minecraft;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
-</div>
 
 ## Información de Contacto
 
